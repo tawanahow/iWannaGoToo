@@ -39,6 +39,7 @@
 		9BA1B12A2380F8D500AB54DA /* ProcessBookingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA1B1292380F8D500AB54DA /* ProcessBookingView.swift */; };
 		9BA1B12B2380F8D500AB54DA /* ProcessBookingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA1B1292380F8D500AB54DA /* ProcessBookingView.swift */; };
 		9BA1B12C2380F8D500AB54DA /* ProcessBookingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA1B1292380F8D500AB54DA /* ProcessBookingView.swift */; };
+		9BFF2372238198F8006F38DB /* AppView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BFF2371238198F8006F38DB /* AppView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -81,6 +82,7 @@
 		9BA1B11D2380ABD300AB54DA /* TripInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripInfo.swift; sourceTree = "<group>"; };
 		9BA1B1212380E5D200AB54DA /* BookingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookingView.swift; sourceTree = "<group>"; };
 		9BA1B1292380F8D500AB54DA /* ProcessBookingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProcessBookingView.swift; sourceTree = "<group>"; };
+		9BFF2371238198F8006F38DB /* AppView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,6 +140,7 @@
 				9BA1B119238070EB00AB54DA /* ListingRow.swift */,
 				9BA1B11D2380ABD300AB54DA /* TripInfo.swift */,
 				9BA1B1212380E5D200AB54DA /* BookingView.swift */,
+				9BFF2371238198F8006F38DB /* AppView.swift */,
 				9BA1B1092380606500AB54DA /* Helper.swift */,
 				9BA1B10D2380614000AB54DA /* Activity.swift */,
 				9BA1B10E2380614000AB54DA /* Booking.swift */,
@@ -314,6 +317,7 @@
 				9BA1B1122380614000AB54DA /* Booking.swift in Sources */,
 				9BA1B0DA23805A6300AB54DA /* AppDelegate.swift in Sources */,
 				9BA1B1222380E5D200AB54DA /* BookingView.swift in Sources */,
+				9BFF2372238198F8006F38DB /* AppView.swift in Sources */,
 				9BA1B12A2380F8D500AB54DA /* ProcessBookingView.swift in Sources */,
 				9BA1B0DC23805A6300AB54DA /* SceneDelegate.swift in Sources */,
 				9BA1B11E2380ABD300AB54DA /* TripInfo.swift in Sources */,

@@ -11,7 +11,7 @@ import SwiftUI
 struct BookingView: View {
     @EnvironmentObject var booking: Booking
     
-    static let paymentTypes = ["Likes", "Followers", "Hashtags"]
+    static let paymentTypes = ["Hashtags", "Followers", "Likes", "Unicorn Tears"]
     @State private var paymentType = 0
     
     var body: some View {
@@ -29,7 +29,7 @@ struct BookingView: View {
                 
                 Section {
                     NavigationLink(destination:
-                    Text("Check Out")){
+                    ProcessBookingView()){
                         Text("Book It")
                     }
                 }
