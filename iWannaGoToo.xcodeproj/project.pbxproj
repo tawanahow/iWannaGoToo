@@ -15,6 +15,30 @@
 		9BA1B0E623805A6400AB54DA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BA1B0E423805A6400AB54DA /* LaunchScreen.storyboard */; };
 		9BA1B0F123805A6500AB54DA /* iWannaGoTooTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA1B0F023805A6500AB54DA /* iWannaGoTooTests.swift */; };
 		9BA1B0FC23805A6500AB54DA /* iWannaGoTooUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA1B0FB23805A6500AB54DA /* iWannaGoTooUITests.swift */; };
+		9BA1B10A2380606500AB54DA /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA1B1092380606500AB54DA /* Helper.swift */; };
+		9BA1B10B2380606500AB54DA /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA1B1092380606500AB54DA /* Helper.swift */; };
+		9BA1B10C2380606500AB54DA /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA1B1092380606500AB54DA /* Helper.swift */; };
+		9BA1B10F2380614000AB54DA /* Activity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA1B10D2380614000AB54DA /* Activity.swift */; };
+		9BA1B1102380614000AB54DA /* Activity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA1B10D2380614000AB54DA /* Activity.swift */; };
+		9BA1B1112380614000AB54DA /* Activity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA1B10D2380614000AB54DA /* Activity.swift */; };
+		9BA1B1122380614000AB54DA /* Booking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA1B10E2380614000AB54DA /* Booking.swift */; };
+		9BA1B1132380614000AB54DA /* Booking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA1B10E2380614000AB54DA /* Booking.swift */; };
+		9BA1B1142380614000AB54DA /* Booking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA1B10E2380614000AB54DA /* Booking.swift */; };
+		9BA1B1162380617D00AB54DA /* listing.json in Resources */ = {isa = PBXBuildFile; fileRef = 9BA1B1152380617D00AB54DA /* listing.json */; };
+		9BA1B1172380617D00AB54DA /* listing.json in Resources */ = {isa = PBXBuildFile; fileRef = 9BA1B1152380617D00AB54DA /* listing.json */; };
+		9BA1B1182380617D00AB54DA /* listing.json in Resources */ = {isa = PBXBuildFile; fileRef = 9BA1B1152380617D00AB54DA /* listing.json */; };
+		9BA1B11A238070EB00AB54DA /* ListingRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA1B119238070EB00AB54DA /* ListingRow.swift */; };
+		9BA1B11B238070EB00AB54DA /* ListingRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA1B119238070EB00AB54DA /* ListingRow.swift */; };
+		9BA1B11C238070EB00AB54DA /* ListingRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA1B119238070EB00AB54DA /* ListingRow.swift */; };
+		9BA1B11E2380ABD300AB54DA /* TripInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA1B11D2380ABD300AB54DA /* TripInfo.swift */; };
+		9BA1B11F2380ABD300AB54DA /* TripInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA1B11D2380ABD300AB54DA /* TripInfo.swift */; };
+		9BA1B1202380ABD300AB54DA /* TripInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA1B11D2380ABD300AB54DA /* TripInfo.swift */; };
+		9BA1B1222380E5D200AB54DA /* BookingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA1B1212380E5D200AB54DA /* BookingView.swift */; };
+		9BA1B1232380E5D200AB54DA /* BookingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA1B1212380E5D200AB54DA /* BookingView.swift */; };
+		9BA1B1242380E5D200AB54DA /* BookingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA1B1212380E5D200AB54DA /* BookingView.swift */; };
+		9BA1B12A2380F8D500AB54DA /* ProcessBookingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA1B1292380F8D500AB54DA /* ProcessBookingView.swift */; };
+		9BA1B12B2380F8D500AB54DA /* ProcessBookingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA1B1292380F8D500AB54DA /* ProcessBookingView.swift */; };
+		9BA1B12C2380F8D500AB54DA /* ProcessBookingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA1B1292380F8D500AB54DA /* ProcessBookingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +73,14 @@
 		9BA1B0F723805A6500AB54DA /* iWannaGoTooUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iWannaGoTooUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BA1B0FB23805A6500AB54DA /* iWannaGoTooUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iWannaGoTooUITests.swift; sourceTree = "<group>"; };
 		9BA1B0FD23805A6500AB54DA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9BA1B1092380606500AB54DA /* Helper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
+		9BA1B10D2380614000AB54DA /* Activity.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Activity.swift; sourceTree = "<group>"; };
+		9BA1B10E2380614000AB54DA /* Booking.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Booking.swift; sourceTree = "<group>"; };
+		9BA1B1152380617D00AB54DA /* listing.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = listing.json; sourceTree = "<group>"; };
+		9BA1B119238070EB00AB54DA /* ListingRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListingRow.swift; sourceTree = "<group>"; };
+		9BA1B11D2380ABD300AB54DA /* TripInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripInfo.swift; sourceTree = "<group>"; };
+		9BA1B1212380E5D200AB54DA /* BookingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookingView.swift; sourceTree = "<group>"; };
+		9BA1B1292380F8D500AB54DA /* ProcessBookingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProcessBookingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,7 +133,15 @@
 			children = (
 				9BA1B0D923805A6300AB54DA /* AppDelegate.swift */,
 				9BA1B0DB23805A6300AB54DA /* SceneDelegate.swift */,
+				9BA1B1292380F8D500AB54DA /* ProcessBookingView.swift */,
 				9BA1B0DD23805A6300AB54DA /* ContentView.swift */,
+				9BA1B119238070EB00AB54DA /* ListingRow.swift */,
+				9BA1B11D2380ABD300AB54DA /* TripInfo.swift */,
+				9BA1B1212380E5D200AB54DA /* BookingView.swift */,
+				9BA1B1092380606500AB54DA /* Helper.swift */,
+				9BA1B10D2380614000AB54DA /* Activity.swift */,
+				9BA1B10E2380614000AB54DA /* Booking.swift */,
+				9BA1B1152380617D00AB54DA /* listing.json */,
 				9BA1B0DF23805A6400AB54DA /* Assets.xcassets */,
 				9BA1B0E423805A6400AB54DA /* LaunchScreen.storyboard */,
 				9BA1B0E723805A6400AB54DA /* Info.plist */,
@@ -242,6 +282,7 @@
 			files = (
 				9BA1B0E623805A6400AB54DA /* LaunchScreen.storyboard in Resources */,
 				9BA1B0E323805A6400AB54DA /* Preview Assets.xcassets in Resources */,
+				9BA1B1162380617D00AB54DA /* listing.json in Resources */,
 				9BA1B0E023805A6400AB54DA /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -250,6 +291,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9BA1B1172380617D00AB54DA /* listing.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,6 +299,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9BA1B1182380617D00AB54DA /* listing.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,9 +310,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9BA1B11A238070EB00AB54DA /* ListingRow.swift in Sources */,
+				9BA1B1122380614000AB54DA /* Booking.swift in Sources */,
 				9BA1B0DA23805A6300AB54DA /* AppDelegate.swift in Sources */,
+				9BA1B1222380E5D200AB54DA /* BookingView.swift in Sources */,
+				9BA1B12A2380F8D500AB54DA /* ProcessBookingView.swift in Sources */,
 				9BA1B0DC23805A6300AB54DA /* SceneDelegate.swift in Sources */,
+				9BA1B11E2380ABD300AB54DA /* TripInfo.swift in Sources */,
 				9BA1B0DE23805A6300AB54DA /* ContentView.swift in Sources */,
+				9BA1B10A2380606500AB54DA /* Helper.swift in Sources */,
+				9BA1B10F2380614000AB54DA /* Activity.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -277,7 +327,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9BA1B12B2380F8D500AB54DA /* ProcessBookingView.swift in Sources */,
+				9BA1B11F2380ABD300AB54DA /* TripInfo.swift in Sources */,
+				9BA1B1102380614000AB54DA /* Activity.swift in Sources */,
+				9BA1B1232380E5D200AB54DA /* BookingView.swift in Sources */,
 				9BA1B0F123805A6500AB54DA /* iWannaGoTooTests.swift in Sources */,
+				9BA1B1132380614000AB54DA /* Booking.swift in Sources */,
+				9BA1B11B238070EB00AB54DA /* ListingRow.swift in Sources */,
+				9BA1B10B2380606500AB54DA /* Helper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -285,7 +342,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9BA1B12C2380F8D500AB54DA /* ProcessBookingView.swift in Sources */,
+				9BA1B1202380ABD300AB54DA /* TripInfo.swift in Sources */,
+				9BA1B1112380614000AB54DA /* Activity.swift in Sources */,
+				9BA1B1242380E5D200AB54DA /* BookingView.swift in Sources */,
 				9BA1B0FC23805A6500AB54DA /* iWannaGoTooUITests.swift in Sources */,
+				9BA1B1142380614000AB54DA /* Booking.swift in Sources */,
+				9BA1B11C238070EB00AB54DA /* ListingRow.swift in Sources */,
+				9BA1B10C2380606500AB54DA /* Helper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
