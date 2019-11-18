@@ -24,7 +24,7 @@ struct BookingView: View {
                             Spacer()
                             Text("$\(item.price)")
                         }
-                    }
+                    }.onDelete(perform: deleteTripListing)
                 }
                 
                 Section {
@@ -32,11 +32,16 @@ struct BookingView: View {
                     ProcessBookingView()){
                         Text("Book It")
                     }
-                }
+                }.disabled(booking.items.isEmpty)
             }
             .navigationBarTitle("Booking")
             .listStyle(GroupedListStyle())
+            .navigationBarItems(trailing: EditButton())
         }
+    }
+    
+    func deleteTripListing(at offsets: IndexSet) {
+        booking.items.remove(atOffsets: offsets)
     }
 }
 

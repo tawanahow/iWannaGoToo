@@ -14,13 +14,13 @@ struct AppView: View {
             ContentView()
                 .tabItem {
                     Image(systemName:"list.dash")
-                    Text("Menu")
+                    Text("Trips")
                 }
             
             BookingView()
                 .tabItem {
                     Image(systemName: "square.and.pencil")
-                    Text("Order")
+                    Text("Booking")
                 }
             
         }

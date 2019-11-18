@@ -5,52 +5,60 @@
 		"items": [
 			{
                 "id": "EDCD038C-036F-4C40-826F-61C88CD84DDD",
-				"name": "Paris One",
+				"name": "French Riviera",
 				"insta": "@howtawana",
 				"price": 1700,
-				"range": ["C", "F"],
-				"description": "Paris"
+				"range": ["L", "C"],
+				"description": "This sun-drenched playground has always attracted the glitterati, especially during The Cannes Film Festival (expect anyone from Tom Hardy to Nicole Kidman on any given year). While there are dreamy hotels, such as the Grand-Hotel du Cap-Ferrat and Hotel du Cap-Eden-Roc, Bella Thorne stayed in a luxury villa. Many stars prefer to charter a yacht — Gwyneth Paltrow has vacationed on-board one in St. Tropez, while J. Lo and A-Rod cruised around the posh resort town of Antibes."
 			},
 			{
                 "id": "36A7CC40-18C1-48E5-BCD8-3B42D43BEAEE",
-				"name": "London One",
+				"name": "Saint Barths",
 				"insta": "@howtawana",
 				"price": 1800,
 				"range": ["H", "C", "F"],
-				"description": "London"
+				"description": "This très chic island, with its gorgeous beaches, glitzy nightlife, and designer boutiques, is a little slice of France in the Caribbean. In peak season, the harbor in Gustavia is always filled with mega-yachts owned by Russian oligarchs or chartered by the likes of Leonardo DiCaprio, Beyoncé and Jay-Z, Pippa Middleton, and Alessandra Ambrosio, and locals get around in cute little golf cart-like vehicles called Mini Mokes."
 			},
 			{
                 "id": "CFB8C2DB-3478-4A10-92FA-3D2A2D5324FB",
-				"name": "Tokyo One",
+				"name": "Aspen",
 				"insta": "@howtawana",
 				"price": 1900,
 				"range": ["H", "F"],
-				"description": "Tokyo"
+				"description": "Aspen has long been one of the world's most glamorous ski resorts. Bella Hadid, Kyle Richards, Kate Hudson, Mariah Carey, Will Smith, and Malia Obama are just some of the well-known people who've been spotted in this glitzy Rocky Mountain hideaway. You might find them at The Little Nell, the luxury hotel at the base of Ajax Mountain, dining at Matsuhisa Aspen, or sipping a craft beer or specialty cocktail at the Hotel Jerome's beloved J-Bar."
 			},
 			{
                 "id": "8903A204-F5C1-4D5C-A0A1-5C0ECD27FDD7",
-				"name": "Marrakech One",
+				"name": "Hawaii",
 				"insta": "@howtawana",
 				"price": 1900,
 				"range": ["H", "C"],
-				"description": "Marrakech"
+				"description": "Hawaii, with its black-sand beaches and scenic waterfalls, is a top celebrity vacation spot (Disney star Auli'i Cravalho is a Hawaiian native!). Rumored couple Cole Sprouse and Lili Reinhart took photos with fans on a recent visit, and Oprah Winfrey and Drew Barrymore own homes here. Other fans include Pretty Little Liars' Lucy Hale, Eva Longoria, and Britney Spears. Resort-wise, top spots include the Montage Kapalua Bay and the Four Seasons Resort Hualalai."
 			},
 			{
                 "id": "82B28AFF-BB29-4186-AA07-04959180D81A",
-				"name": "Bali One",
+				"name": "Costa Rica",
 				"insta": "@howtawana",
 				"price": 3900,
 				"range": ["B"],
-				"description": "Bali"
+				"description": "Mega celebrities have fallen in love with the lush Central American country of Costa Rica. Frequent visitors Gisele Bündchen and her star quarterback hubby Tom Brady own a home here, and other stars that have been include Zac Efron (spotted playing golf with some buddies), Matt Damon, Leonardo DiCaprio, tennis ace Rafael Nadal (who was seen swimming in the Papagayo Gulf), and British celebrity chef Jamie Oliver, who made tortillas with a local cook."
 			},
 			{
                 "id": "190E1A9D-20A4-4F98-AA54-B192E1C4D7B9",
-				"name": "New York One",
+				"name": "The Hamptons",
 				"insta": "@howtawana",
 				"price": 1500,
 				"range": ["F", "C"],
-                "description": "NYC"
-			}
+                "description": "This glamorous beach getaway on Long Island's South Fork attracts megawatt celebrities fleeing NYC's humid summers. Billy Joel, Scarlett Johansson, and Jerry Seinfeld own homes in the Hamptons, and Lady Gaga has been known to frequent the area. Top restaurants like Jean-Georges at the Topping Rose House attract bold-faced names, as does the East Hampton classic Nick & Toni's (Paul McCartney and Brad Pitt are fans)."
+			},
+            {
+                "id": "F021ADD0-6016-4C0F-815A-401ECB8ED513",
+                "name": "Dubai",
+                "insta": "@howtawana",
+                "price": 8000,
+                "range": ["C", "L"],
+                "description": "The newly married Justin Bieber is a frequent visitor to Dubai, known for its over-the-top hotels like Burj Al Arab, megamalls, and man-made islands (not to mention the world's tallest building, Burj Khalifa). He has been seen partying at Zero Gravity and other celebrities who have made the trip include Tom Cruise, John Legend, Zac Efron, and Tiger Woods."
+            }
 		]
 	},
 	{
@@ -59,99 +67,91 @@
 		"items": [
 			{
                 "id": "D44AAEBC-BF4F-42CD-8C37-0FEF772A5B69",
-				"name": "Paris Two",
+				"name": "Tulum",
 				"insta": "@howtawana",
 				"price": 699,
 				"range": ["H", "C"],
-                "description": "Paris"
+                "description": "Another Mexican hotspot popular with vacationing celebrities is Tulum, the boho-chic retreat on the Riviera Maya with eco-boutique hotels like Sanara Tulum and Be Tulum. Fans include Drew Barrymore, Richard Gere, Sienna Miller, and Reese Witherspoon, and sports couple Aaron Rodgers and Danica Patrick were recently spotted biking around town. Plus, a recent addition of Sports Illustrated Swimsuit Edition was shot here."
 			},
 			{
                 "id": "2BAD20C5-D007-4BBE-B074-8CF0F256A42F",
-				"name": "London Two",
+				"name": "New Orleans",
 				"insta": "@howtawana",
 				"price": 799,
 				"range": ["H", "C", "L"],
-				"description": "London"
+				"description": "Many celebrities fall in love with the Big Easy and end up buying homes here, such as Sandra Bullock and Nicolas Cage, joining homegrown stars like Harry Connick Jr. Beyoncé's little sis Solange married here, as did Serena Williams (Beyoncé, Kim Kardashian West, and Ciara were among the high-powered guests). Speaking of Queen B, she and Jay-Z have dined at Dooky Chase's, a legendary Creole restaurant."
 			},
 			{
                 "id": "759527CB-1064-4082-A527-F04698F9D18F",
-				"name": "New York Two",
+				"name": "Marrakech",
 				"insta": "@howtawana",
 				"price": 899,
 				"range": ["H", "C"],
-                "description": "NYC"
+                "description": "This city in Morocco has seen its fair share of celebrities, who come to luxuriate in swanky riad hotels like Maison Arabe and El Fenn, shop for crafts and Berber carpets in the medina, and take day trips to see the rugged Atlas Mountains. Sports stars like Cristiano Ronaldo and David Beckham (along with wife Victoria) have visited, as have Katy Perry, Usher, Lily Allen, and director Francis Ford Coppola."
 			},
 			{
                 "id": "AD419CE6-50CC-4132-BE8E-B92B9DFE4D02",
-				"name": "Marrakech Two",
+				"name": "Mykonos",
 				"insta": "@howtawana",
 				"price": 599,
 				"range": ["H"],
-				"description": "Marrakech"
+				"description": "Sun-drenched Mykonos, one of the stunningly beautiful Greek islands in the Aegean Sea, is a favorite getaway of celebrities. Gabrielle Union and hubby Dwyane Wade were spotted at the beach, while Kendall Jenner and Bella Hadid partied at the exclusive Nammos Beach Club. Ariana Grande, Gerard Butler, and Leo (him again!) are also fans of the island."
 			},
 			{
                 "id": "944AB773-16CA-48F9-BB64-BB0E482FE102",
-				"name": "Tokyo Two",
+				"name": "Lake Como",
 				"insta": "@howtawana",
 				"price": 999,
 				"range": ["C", "L"],
-				"description": "Tokyo"
-			},
-			{
-                "id": "024763B6-2577-4D04-9A4F-321F3EB19EA6",
-				"name": "Paris Three",
-				"insta": "@howtawana",
-				"price": 799,
-				"range": ["F", "C"],
-                "description": "Paris"
+				"description": "When you think of Lake Como, George Clooney likely pops into your mind. The Hollywood hunk owns a lavish lakefront villa here and is often seen out and about with wife Amal at places like Il Gatto Nero for dinner and the posh Villa d'Este hotel for drinks. Emily Blunt and Jon Krasinski even got married here. Other stars that have visited include Nick Jonas and his fiance Priyanka Chopra."
 			},
 			{
                 "id": "22E8B9F0-94C1-43EC-9B19-34F22CA17B6B",
-				"name": "London Three",
+				"name": "London",
 				"insta": "@howtawana",
 				"price": 799,
 				"range": ["C", "F", "H"],
-				"description": "London"
+				"description": "London is a celebrity magnet. Of course, the British capital is the fiefdom of the royals, Princess William and Duchess Kate, and Prince Harry and Duchess Meghan, but there are plenty of other celebs who love the British capital's buzzing restaurants, hip hotels like The Curtain, and charming pubs. Taylor Swift lives here part-time with her British actor beau Joe Alwyn, and Kendall Jenner and Bella Hadid recently dined at Sexy Fish."
 			},
 			{
                 "id": "DD20B3C1-438A-4657-BCFA-A0C6DA1AE7EE",
-				"name": "New York Three",
+				"name": "New York",
 				"insta": "@howtawana",
 				"price": 399,
 				"range": ["C"],
-                "description": "London"
+                "description": "Stars gravitate to the City That Never Sleeps. Everyone from Bradley Cooper and Blake Lively to Zendaya and Emily Blunt have been seen out and about in NYC. Gigi Hadid was recently spotted dining on sushi at midtown's Zuma, Justin Timberlake stopped by The Seville, the new basement lounge in NoMad's James hotel, and Fergie, Katie Holmes and Naomi Watts were all spotted riding the subway!"
 			},
 			{
                 "id": "44FBAFC0-BEE0-4A02-9C57-B8ECDC1CE5E1",
-				"name": "Marrakech Three",
+				"name": "Las Vegas",
 				"insta": "@howtawana",
 				"price": 1299,
 				"range": ["C", "L"],
-                "description": "Marrakech"
+                "description": "When celebrities, such as Kendrick Lamar, Pharrell Williams, Sia, and Taylor Swift want to let their hair down, they head to Sin City. They gamble in the casinos along the famous Strip and dine in restaurants Hakkasan. Plus, you never know which mega-star will have a residency here — Britney has signed a new deal to begin a residency in 2019 at the Park MGM."
 			},
 			{
                 "id": "F0B4DF27-B293-4151-8480-FA46DFCA5BBB",
-				"name": "Tokyo Three",
+				"name": "Seychelles",
 				"insta": "@howtawana",
 				"price": 1600,
                 "range": ["C", "H"],
-                "description": "Tokyo"
+                "description": "This private island resort in the Seychelles is one of the most exclusive hideaways in the world. William and Kate honeymooned here, as did Nicky Hilton and James Rothschild and George and Amal Clooney (after their fab wedding in Venice). David and Victoria Beckham are also fans of North Island, which has just 11 thatched-roofed villas, anything-you-desire service, and untouched beaches all to yourself."
 			},
 			{
                 "id": "FD3BACF7-01AE-449D-8929-26C6F8EC90D5",
-				"name": "Paris Four",
+				"name": "Paris",
 				"insta": "@howtawana",
 				"price": 1700,
 				"range": ["C", "H"],
-				"description": "Paris"
+				"description": "The City of Light is a favorite getaway for celebrities. Sisters Gigi and Bella Hadid love Paris, and frequently come not only to walk the runways, but for downtime, too. They love to frequent classic restaurants like Café de Flore, shop till they drop, and stay in upscale hotels, perhaps Le Meurice or the Ritz. Emma Stone and Dakota Fanning are also fans of the French capital."
 			},
 			{
                 "id": "F5BCE219-391D-4AAF-8DA7-D25096776D46",
-				"name": "London Four",
+				"name": "Bali",
 				"insta": "@howtawana",
 				"price": 3000,
 				"range": ["C", "H", "L"],
-                "description": "London"
+                "description": "Bali has become a hotspot for international celebs. Whether they’re visiting the island for a romantic getaway (Kim & Kanye, we’re looking at you!) or bringing the whole family for an action-packed escape (yes we saw you white-water rafting, Obamas!) celebs seem to slip into island life easier than our evening sundowners fall into your hands"
 			}
 		]
 	},
@@ -161,35 +161,27 @@
 		"items": [
 			{
                 "id": "AB7E38EA-05A7-426A-AFF3-B3A32B3E86BF",
-				"name": "New York Four",
+				"name": "Singapore",
 				"insta": "@howtawana",
 				"price": 5000,
 				"range": ["H", "C"],
-                "description": "NYC"
+                "description": "Due to the success of the book and subsequent film, Crazy Rich Asians, Singapore is one of 2018's most popular cities to visit. The film starring Constance Wu and Henry Golding filmed here and were present for its Singapore premiere. Hollywood celebrities like Reese Witherspoon have eaten at Jumbo Seafood, while Tom Hanks and Jamie Foxx have dined at CUT steakhouse in the swanky Marina Bay Sands complex."
 			},
 			{
                 "id": "758ABBE3-F338-4F7C-BAC7-8D61BC1FB329",
-				"name": "Marrakech Four",
+				"name": "Cartagena",
 				"insta": "@howtawana",
 				"price": 4000,
 				"range": ["F", "C"],
-				"description": "Marrakech"
+				"description": "Colombia is very much an up-and-coming destination, and especially the city of Cartagena. Colombia-born Sofia Vergara, Javier Bardem, and Anderson Cooper are swayed by the city's Spanish colonial architecture, cobbled streets, and cevicherias. Long-time visitor Tinsley Mortimer and her Real Housewives of New York castmates had a very memorable trip here last season!"
 			},
 			{
                 "id": "A73E2D2D-D53A-46D4-8829-62011EEF7DA4",
-				"name": "Tokyo Four",
+				"name": "Tokyo",
 				"insta": "@howtawana",
 				"price": 5000,
 				"range": ["C", "L"],
-				"description": "Tokyo"
-			},
-			{
-                "id": "971CFDDD-2AFA-418F-909F-D459CC6827CF",
-				"name": "Paris Five",
-				"insta": "@howtawana",
-				"price": 7000,
-				"range": ["H", "C", "L"],
-				"description": "Paris"
+				"description": "Tokyo is a world unto itself, and it’s an absolute must-see for any travel lover. Soak in the traditional Japanese culture, learn about modern life in the city, and people-watch until your head spins! Tokyo has it all: from hole-in-the-wall gyoza joints to high-end Michelin sushi bars. If you’re going to Tokyo, plan on trying all the amazing food  — eating here is half the fun."
 			}
 		]
 	},
@@ -199,52 +191,19 @@
 		"items": [
 			{
                 "id": "A4D89AF9-190E-4409-B924-AABD13DBB6A4",
-				"name": "London Five",
+				"name": "Cabo San Lucas",
 				"insta": "@howtawana",
 				"price": 5000,
 				"range": ["C"],
-				"description": "London"
-			},
-			{
-                "id": "FC201614-1418-4152-9469-087B27485D13",
-				"name": "New York Five",
-				"insta": "@howtawana",
-				"price": 5000,
-				"range": ["C"],
-                "description": "NYC"
-			},
-			{
-                "id": "58CE3F3E-74E1-4C5F-A630-986B187788B5",
-				"name": "Paris Six",
-				"insta": "@howtawana",
-				"price": 5600,
-				"range": ["C", "H", "L"],
-				"description": "Paris"
-			},
-			{
-                "id": "71B872F2-3B5D-46D0-9D98-E696B4AE30E4",
-				"name": "London Six",
-				"insta": "@howtawana",
-				"price": 7000,
-				"range": ["H", "C"],
-				"description": "London"
-			},
-			{
-                "id": "DE58CEFF-7023-4B60-88CC-80C5B7BFB6EC",
-				"name": "Tokyo Six",
-				"insta": "@howtawana",
-				"price": 6000,
-				"range": ["C"],
-				"description": "Tokyo Six"
-			},
-			{
-                "id": "E7584DB6-2EAE-4178-ADB2-9E5DBD5215EA",
-				"name": "Dubai One",
-				"insta": "@howtawana",
-				"price": 8000,
-				"range": ["C", "L"],
-                "description": "Dubai"
+				"description": "Cabo San Lucas is a south-of-the-border getaway that's long attracted celebs like Jennifer Aniston and former Fifth Harmony singer Camila Cabello. They appreciate the quick flight from LA, the gorgeous Sea of Cortez views, and the pampering hotels like The Cape. Longtime visitor George Clooney likes Cabo so much, he even built his own villa — right next door to the one owned by his BFFs Rande Gerber and Cindy Crawford."
 			}
 		]
-	}
+	},
+    {
+        "name": "JetSet",
+        "id": "4C7E99DE-01D8-4210-82D2-345A874CF0C4",
+        "items": [
+
+        ]
+    }
 ]
