@@ -45,11 +45,6 @@ struct TripInfo: View {
             }
             Spacer()
             
-            Text("Tag a Friend")
-            Button("You Wanna Go With Me?"){
-            }.padding()
-      
-            
             Button("You Wanna Go? Book It"){
                 self.booking.add(item: self.item)
             }.font(.title)

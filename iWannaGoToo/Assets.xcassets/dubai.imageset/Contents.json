@@ -5,18 +5,18 @@
       "scale" : "1x"
     },
     {
+      "filename" : "dubai@2x.jpeg",
       "idiom" : "universal",
-      "filename" : "dubai-one@2x.jpg",
       "scale" : "2x"
     },
     {
+      "filename" : "dubai@3x.jpeg",
       "idiom" : "universal",
-      "filename" : "dubai-one@3x.jpg",
       "scale" : "3x"
     }
   ],
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   }
 }

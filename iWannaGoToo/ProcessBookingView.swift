@@ -55,7 +55,7 @@ struct ProcessBookingView: View {
             
             //format with floating code
             Section(header:
-            Text("Trip Total: $\(totalPrice, specifier: "%.2f")")
+            Text("Trip Valued At: $\(totalPrice, specifier: "%.2f")")
                 .font(.largeTitle)
             ) {
                 Button("Confirm booking") {
@@ -65,7 +65,7 @@ struct ProcessBookingView: View {
         }
         .navigationBarTitle(Text("Payment"), displayMode: .inline)
         .alert(isPresented: $confirmPaymentAlert) {
-            Alert(title: Text("Booking confirmed"), message: Text("You paid $\(totalPrice, specifier: "%.2f") - You are going to have a great trip. Enjoy!"), dismissButton: .default(Text("Bon Voyage")))
+            Alert(title: Text("Booking confirmed"), message: Text("You didnt't pay $\(totalPrice, specifier: "%.2f") - You are going to have a great trip. Enjoy!"), dismissButton: .default(Text("Bon Voyage")))
         }
     }
 }

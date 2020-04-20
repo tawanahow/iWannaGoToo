@@ -9,7 +9,7 @@
 import SwiftUI
 
 struct ListingRow: View {
-        static let colors: [String: Color] = ["B": .purple, "C": .orange, "F": .red, "H": .blue, "L": .green]
+    static let colors: [String: Color] = ["B": .purple, "C": .orange, "F": .red, "H": .blue, "L": .green, "S": .yellow]
     var item: TripListing
     
     var body: some View {
