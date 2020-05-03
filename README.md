@@ -8,4 +8,4 @@ What stopped you? No Time, No Money?
 iWannaGoToo, an iOS app, gives you the satisfaction of the experience of booking a vacation on the spot. No money or time off required.
 
 
-<img align="right" src="https://github.com/iWannaGoToo/iWannaGoToo/Assets.xcassets/appIcon.appiconset/Icon-1024.png" width="300" height="300" />
+<img align="right" src="https://github.com/iWannaGoToo/iWannaGoToo/Assets.xcassets/AppIcon.appiconset/Icon-1024.png" width="300" height="300" />
